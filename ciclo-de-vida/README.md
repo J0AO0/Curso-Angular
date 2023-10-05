@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
-Content
+## Content
 
 Conteúdo básico para o entendimento do ciclo de vida dos componentes angular (ngOnInit, ngOnChanges, ngDoCheck e ngOnDestroy).
 
